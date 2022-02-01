@@ -1,8 +1,5 @@
 # Nome do projeto
-
-![GitHub repo size](https://img.shields.io/github/repo-size/VicktorMS/hmtl-basics?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/VicktorMS/hmtl-basics?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/VicktorMS/hmtl-basics?style=for-the-badge)
 
 
 <img src="ScreenShots/Index.JPG" alt="exemplo imagem">
