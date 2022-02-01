@@ -1,4 +1,4 @@
-# Nome do projeto
+# Tags, Hyperlinks, Basic HTML Structure
 ![GitHub language count](https://img.shields.io/github/languages/count/VicktorMS/hmtl-basics?style=for-the-badge)
 
 
